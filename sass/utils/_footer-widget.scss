@@ -1,0 +1,9 @@
+.footer-widget {
+  flex-basis: calc((100% - 30px) / 2);
+}
+
+.footer-widget-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
